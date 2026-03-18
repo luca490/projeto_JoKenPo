@@ -1,13 +1,30 @@
-# Jokenpo - Android
+Este é um projeto simples do jogo Pedra, Papel e Tesoura (JoKenPo) desenvolvido com foco em lógica de programação.
 
-## **Sobre o projeto**
+🚀 Funcionalidades
 
-Este projeto consiste em um aplicativo simples do jogo **Jokenpo (Pedra, Papel e Tesoura)** desenvolvido no **Android Studio utilizando Java**. O objetivo é permitir que o usuário jogue contra o computador de forma rápida e intuitiva.
+Escolha entre pedra, papel ou tesoura
 
-## **Funcionamento**
+Jogador vs computador
 
-O jogador escolhe entre **pedra, papel ou tesoura**, enquanto o computador faz uma escolha aleatória. A cada rodada é exibido o resultado na tela e o placar é atualizado. A partida segue no sistema **"vai a 5"**, ou seja, vence quem atingir **5 pontos primeiro**.
+Resultado automático (vitória, derrota ou empate)
 
-## **Execução**
+🛠️ Tecnologias utilizadas
 
-O projeto pode ser aberto e executado diretamente no **Android Studio** em um emulador ou dispositivo físico. Também é possível instalar o aplicativo utilizando o **APK disponível neste repositório**.
+Linguagem: (coloque aqui, ex: Python / JavaScript)
+
+▶️ Como executar
+
+Clone o repositório:
+
+git clone https://github.com/luca490/projeto_JoKenPo.git
+
+Acesse a pasta do projeto:
+
+cd projeto_JoKenPo
+
+Execute o arquivo principal:
+
+(Ex: python main.py ou node index.js)
+📌 Observações
+
+Projeto desenvolvido para fins acadêmicos.
